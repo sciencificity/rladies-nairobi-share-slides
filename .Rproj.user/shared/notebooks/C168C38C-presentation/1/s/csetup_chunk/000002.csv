@@ -1,0 +1,11 @@
+"0","options(htmltools.dir.version = FALSE)"
+"2","Warning message:
+"
+"2","All formats failed to parse. No formats found. 
+"
+"0","knitr::opts_chunk$set(eval=TRUE, "
+"0","        echo=FALSE, message=FALSE, warning=FALSE"
+"0","        )"
+"0","library(meetupr)"
+"0","library(tidyverse)"
+"0","library(lubridate)"
